@@ -1,0 +1,20 @@
+Subject: Upozornění na odpověď v tématu – {TOPIC_TITLE}
+
+Dobrý den {USERNAME},
+
+Vámi sledované téma „{TOPIC_TITLE}“ na webu {SITENAME} obrdželo od vaší poslední návštěvy nový příspěvek<!-- IF AUTHOR_NAME != '' --> od {AUTHOR_NAME}<!-- ENDIF -->. Dokud toto téma nezobrazíte, nebude vám zasláno žádné další e-mailové upozornění.
+
+Poslední nepřečtená odpověď:
+{U_NEWEST_POST}
+
+Téma:
+{U_TOPIC}
+
+Fórum:
+{U_FORUM}
+
+Pokud již dále nechcete sledovat toto téma, použijte odkaz „Ukončit sledování tohoto tématu“, nebo použijte následující odkaz:
+
+{U_STOP_WATCHING_TOPIC}
+
+{EMAIL_SIG}

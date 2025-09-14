@@ -1,0 +1,13 @@
+Subject: Hlášení příspěvku uzavřeno - {POST_SUBJECT}
+
+Dobrý den {USERNAME},
+
+Vaše hlášení příspěvku „{POST_SUBJECT}“ od uživatele „{AUTHOR_NAME}“ v tématu „{TOPIC_TITLE}“ na webu {SITENAME} bylo uzavřeno moderátorem nebo administrátorem. Pro další dotazy kontaktujte {CLOSER_NAME} soukromou zprávu.
+
+Nahlášený příspěvek:
+
+{U_VIEW_POST}
+
+Nastavení zasílání e-mailových upozornění si můžete upravit ve svém uživatelském panelu.
+
+{EMAIL_SIG}

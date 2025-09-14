@@ -1,0 +1,13 @@
+Subject: Moderování tématu – „{TOPIC_TITLE}“
+
+Dobrý den {USERNAME},
+
+na webu „{SITENAME}“ je třeba schválit téma „{TOPIC_TITLE}“.
+
+Pro zobrazení tématu klikněte na následující odkaz:
+{U_VIEW_TOPIC}
+
+Pro zobrazení fóra klikněte na následující odkaz:
+{U_FORUM}
+
+{EMAIL_SIG}

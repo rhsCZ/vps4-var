@@ -1,0 +1,80 @@
+/* Reset some default browser styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    height: 100vh; /* Full height of the viewport */
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    background-color: #f4f4f4; /* Light background color */
+}
+
+.container {
+    display: flex;
+    flex-direction: column; /* Stack children vertically */
+    justify-content: center;
+    align-items: center;
+    width: 100%; /* Full width */
+    padding: 20px; /* Padding around the form */
+}
+
+.response-frame {
+    background-color: #e9ecef; /* Light gray background for the response frame */
+    width: 300px; /* Fixed width for the response frame */
+    height: 50px; /* Height of the response frame */
+    border: 1px solid #ccc; /* Border color */
+    border-radius: 4px; /* Rounded corners */
+    margin-bottom: 20px; /* Space between the response frame and the form */
+    display: flex;
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+    color: #6c757d; /* Grey text color */
+}
+
+.centered-form {
+    background-color: white; /* White background for the form */
+    padding: 20px; /* Padding inside the form */
+    border-radius: 5px; /* Rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    display: flex;
+    flex-direction: column; /* Stack children vertically */
+    align-items: center; /* Center children horizontally */
+    width: 300px; /* Fixed width for the form */
+}
+
+.centered-form label {
+    margin-bottom: 10px; /* Space between label and input */
+}
+
+.centered-form input {
+    width: 100%; /* Full width input */
+    padding: 10px; /* Padding inside the input */
+    margin-bottom: 20px; /* Space below the input */
+    border: 1px solid #ccc; /* Border color */
+    border-radius: 4px; /* Rounded corners */
+}
+
+.centered-form button {
+    padding: 10px 20px; /* Padding for button */
+    border: none; /* No border */
+    border-radius: 4px; /* Rounded corners */
+    background-color: #007BFF; /* Bootstrap primary color */
+    color: white; /* Text color */
+    cursor: pointer; /* Pointer cursor on hover */
+}
+
+.centered-form button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
+
+/* Responsive design */
+@media (max-width: 400px) {
+    .response-frame, .centered-form {
+        width: 90%; /* Full width on small screens */
+    }
+}

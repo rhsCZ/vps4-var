@@ -1,0 +1,13 @@
+
+Dobrý den {TO_USERNAME},
+
+uživatel {FROM_USERNAME} vám posílá zprávu z webu {SITENAME}. Pokud tento e-mail obsahuje spam, hanlivé výrazy nebo jiné komentáře, které pokládáte za nevhodné, kontaktujte administrátora na následující adrese:
+
+{BOARD_CONTACT}
+
+Následuje celá zpráva (podrobnosti jsou v hlavičce). Pamatujte, že když kliknete na odpovědět, odpovíte uživateli {FROM_USERNAME}.
+
+Celá zpráva
+~~~~~~~~~~~
+
+{MESSAGE}

@@ -1,0 +1,102 @@
+/* Reset some default browser styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4; /* Light background color */
+    color: #333; /* Dark text color */
+}
+
+header {
+    text-align: center; /* Center the header */
+    padding: 20px; /* Padding around the header */
+    background-color: #007BFF; /* Header background color */
+    color: white; /* White text color */
+}
+
+h1 {
+    font-size: 2em; /* Header size */
+}
+
+.container {
+    display: flex; /* Use flexbox to align tables side by side */
+    justify-content: center; /* Center the tables */
+    margin: 20px; /* Margin around the container */
+}
+
+.table-container {
+    display: flex; /* Flexbox for table layout */
+    gap: 20px; /* Space between tables */
+}
+
+.table-wrapper {
+    background-color: white; /* Table wrapper background */
+    border-radius: 5px; /* Rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    padding: 20px; /* Padding inside the wrapper */
+    width: 500px; /* Fixed width for tables */
+}
+
+h2 {
+    text-align: center; /* Center table headers */
+    margin-bottom: 10px; /* Space below header */
+}
+nav ul {
+    list-style: none; /* Remove bullet points */
+    padding: 0; /* Remove padding */
+}
+
+nav ul li {
+    display: inline; /* Display links inline */
+    margin: 0 15px; /* Space between links */
+}
+
+nav a {
+    color: white; /* White text for links */
+    text-decoration: none; /* No underline */
+}
+
+nav a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
+table {
+    width: 100%; /* Full width of the wrapper */
+    border-collapse: collapse; /* Collapse table borders */
+}
+
+th, td {
+    border: 1px solid #ccc; /* Border for table cells */
+    padding: 10px; /* Padding inside cells */
+    text-align: left; /* Left align text */
+}
+
+footer {
+    text-align: center; /* Center the footer content */
+    padding: 10px; /* Padding around the footer */
+    background-color: #007BFF; /* Footer background color */
+    color: white; /* White text color */
+    position: sticky;
+    bottom: 0;
+    width: 100%; /* Full width */
+}
+
+footer a {
+    color: white; /* White text for links */
+    text-decoration: none; /* No underline */
+}
+
+footer a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
+
+/* Responsive design */
+@media (max-width: 600px) {
+    .table-container {
+        flex-direction: column; /* Stack tables vertically on small screens */
+        align-items: center; /* Center tables */
+    }
+}

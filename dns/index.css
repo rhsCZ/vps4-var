@@ -1,0 +1,84 @@
+/* Reset some default browser styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4; /* Light background color */
+    color: #333; /* Dark text color */
+    display: flex;
+    flex-direction: column; /* Stack content vertically */
+    min-height: 100vh; /* Full height of the viewport */
+}
+
+header {
+    text-align: center; /* Center the header text */
+    padding: 20px; /* Padding around the header */
+    background-color: #007BFF; /* Header background color */
+    color: white; /* White text color */
+}
+
+nav ul {
+    list-style: none; /* Remove bullet points */
+    padding: 0; /* Remove padding */
+}
+
+nav ul li {
+    display: inline; /* Display links inline */
+    margin: 0 15px; /* Space between links */
+}
+
+nav a {
+    color: white; /* White text for links */
+    text-decoration: none; /* No underline */
+}
+
+nav a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
+
+main {
+    flex: 1; /* Allow main to grow and fill space */
+    display: flex;
+    flex-direction: column; /* Stack content vertically */
+    justify-content: center; /* Center content vertically */
+    align-items: center; /* Center content horizontally */
+    padding: 20px; /* Padding around the main content */
+}
+
+.info {
+    max-width: 600px; /* Limit width of the info section */
+    text-align: center; /* Center text */
+    background-color: white; /* White background for the info section */
+    padding: 20px; /* Padding inside the info section */
+    border-radius: 5px; /* Rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+footer {
+    text-align: center; /* Center the footer content */
+    padding: 10px; /* Padding around the footer */
+    background-color: #007BFF; /* Footer background color */
+    position: sticky;
+    color: white; /* White text color */
+}
+
+footer a {
+    color: white; /* White text for footer links */
+    text-decoration: none; /* No underline */
+}
+
+footer a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
+
+/* Responsive design */
+@media (max-width: 600px) {
+    nav ul li {
+        display: block; /* Stack links vertically on small screens */
+        margin: 5px 0; /* Space between links */
+    }
+}

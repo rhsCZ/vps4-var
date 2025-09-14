@@ -1,0 +1,10 @@
+Subject: Schválení tématu - {TOPIC_TITLE}
+
+Dobrý den {USERNAME},
+
+vaše téma „{TOPIC_TITLE}“ na webu „{SITENAME}“ bylo schváleno moderátorem nebo administrátorem.
+
+Pro zobrazení tématu můžete použít následující odkaz:
+{U_VIEW_TOPIC}
+
+{EMAIL_SIG}

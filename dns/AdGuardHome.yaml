@@ -1,0 +1,305 @@
+http:
+  pprof:
+    port: 6060
+    enabled: false
+  address: 0.0.0.0:3000
+  session_ttl: 720h
+users:
+  - name: rhscz
+    password: $2a$10$QIPHhMPbL5ICjgC89EjEmupz3xShUZInNWcmGPemvKttkH0gestOy
+auth_attempts: 5
+block_auth_min: 15
+http_proxy: ""
+language: cs
+theme: auto
+dns:
+  bind_hosts:
+    - 127.0.0.1
+    - ::1
+  port: 5335
+  anonymize_client_ip: true
+  ratelimit: 100
+  ratelimit_subnet_len_ipv4: 24
+  ratelimit_subnet_len_ipv6: 56
+  ratelimit_whitelist: []
+  refuse_any: true
+  upstream_dns:
+    - tls://dns.google
+    - 8.8.8.8
+    - 8.8.4.4
+    - 2001:4860:4860::8888
+    - 2001:4860:4860::8844
+    - 1.1.1.1
+    - 1.0.0.1
+    - 2606:4700:4700::1111
+    - 2606:4700:4700::1001
+    - https://dns.cloudflare.com/dns-query
+    - tls://1dot1dot1dot1.cloudflare-dns.com
+  upstream_dns_file: ""
+  bootstrap_dns:
+    - 9.9.9.10
+    - 149.112.112.10
+    - 2620:fe::10
+    - 2620:fe::fe:10
+  fallback_dns: []
+  upstream_mode: parallel
+  fastest_timeout: 1s
+  allowed_clients: []
+  disallowed_clients: []
+  blocked_hosts:
+    - version.bind
+    - id.server
+    - hostname.bind
+  trusted_proxies:
+    - 127.0.0.0/8
+    - ::1/128
+  cache_size: 4194304
+  cache_ttl_min: 0
+  cache_ttl_max: 0
+  cache_optimistic: false
+  bogus_nxdomain: []
+  aaaa_disabled: false
+  enable_dnssec: true
+  edns_client_subnet:
+    custom_ip: ""
+    enabled: false
+    use_custom: false
+  max_goroutines: 300
+  handle_ddr: true
+  ipset: []
+  ipset_file: ""
+  bootstrap_prefer_ipv6: false
+  upstream_timeout: 10s
+  private_networks: []
+  use_private_ptr_resolvers: false
+  local_ptr_upstreams: []
+  use_dns64: false
+  dns64_prefixes: []
+  serve_http3: false
+  use_http3_upstreams: false
+  serve_plain_dns: true
+  hostsfile_enabled: true
+  pending_requests:
+    enabled: true
+tls:
+  enabled: false
+  server_name: dns2.rhscz.eu
+  force_https: false
+  port_https: 453
+  port_dns_over_tls: 853
+  port_dns_over_quic: 853
+  port_dnscrypt: 0
+  dnscrypt_config_file: ""
+  allow_unencrypted_doh: false
+  certificate_chain: ""
+  private_key: ""
+  certificate_path: /etc/letsencrypt/live/dns2.rhscz.eu/fullchain.pem
+  private_key_path: /etc/letsencrypt/live/dns2.rhscz.eu/privkey.pem
+  strict_sni_check: false
+querylog:
+  dir_path: ""
+  ignored: []
+  interval: 24h
+  size_memory: 1000
+  enabled: true
+  file_enabled: true
+statistics:
+  dir_path: ""
+  ignored: []
+  interval: 24h
+  enabled: true
+filters:
+  - enabled: true
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
+    name: AdGuard DNS filter
+    id: 1
+  - enabled: true
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_2.txt
+    name: AdAway Default Blocklist
+    id: 2
+  - enabled: true
+    url: https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
+    name: KADhosts
+    id: 1674420961
+  - enabled: true
+    url: https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
+    name: spam hosts
+    id: 1674420962
+  - enabled: true
+    url: https://v.firebog.net/hosts/static/w3kbl.txt
+    name: w3kbl
+    id: 1674420963
+  - enabled: true
+    url: https://adaway.org/hosts.txt
+    name: adaway
+    id: 1674420964
+  - enabled: true
+    url: https://v.firebog.net/hosts/AdguardDNS.txt
+    name: adguardDNS
+    id: 1674420965
+  - enabled: true
+    url: https://v.firebog.net/hosts/Admiral.txt
+    name: admiral
+    id: 1674420966
+  - enabled: true
+    url: https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
+    name: adservers
+    id: 1674420967
+  - enabled: true
+    url: https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+    name: simple ad
+    id: 1674420968
+  - enabled: true
+    url: https://v.firebog.net/hosts/Easylist.txt
+    name: easylist
+    id: 1674420969
+  - enabled: true
+    url: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&amp;amp;showintro=0&amp;amp;mimetype=plaintext
+    name: yoyo
+    id: 1674420970
+  - enabled: true
+    url: https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
+    name: uncheckyad
+    id: 1674420971
+  - enabled: true
+    url: https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
+    name: bigdargon
+    id: 1674420972
+  - enabled: true
+    url: https://v.firebog.net/hosts/Easyprivacy.txt
+    name: easyprivacy
+    id: 1674420973
+  - enabled: true
+    url: https://v.firebog.net/hosts/Prigent-Ads.txt
+    name: prigent ads
+    id: 1674420974
+  - enabled: true
+    url: https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
+    name: fademind
+    id: 1674420975
+  - enabled: true
+    url: https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+    name: spy
+    id: 1674420976
+  - enabled: true
+    url: https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
+    name: trackers
+    id: 1674420977
+  - enabled: true
+    url: https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
+    name: antimalware
+    id: 1674420978
+  - enabled: true
+    url: https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
+    name: malwertising
+    id: 1674420980
+  - enabled: true
+    url: https://v.firebog.net/hosts/Prigent-Crypto.txt
+    name: crypto
+    id: 1674420981
+  - enabled: true
+    url: https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
+    name: Mandiant_APT1_Report_Appendix_D
+    id: 1674420982
+  - enabled: true
+    url: https://phishing.army/download/phishing_army_blocklist_extended.txt
+    name: pishing
+    id: 1674420983
+  - enabled: true
+    url: https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
+    name: notrack malware
+    id: 1674420984
+  - enabled: true
+    url: https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
+    name: spam404
+    id: 1674420985
+  - enabled: true
+    url: https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
+    name: extra fademind
+    id: 1674420986
+  - enabled: true
+    url: https://urlhaus.abuse.ch/downloads/hostfile/
+    name: abuse
+    id: 1674420987
+  - enabled: true
+    url: https://raw.githubusercontent.com/rhsCZ/adguard-lists/refs/heads/main/blacklist.txt
+    name: custom
+    id: 1712270485
+whitelist_filters:
+  - enabled: true
+    url: https://raw.githubusercontent.com/rhsCZ/adguard-lists/refs/heads/main/whitelist.txt
+    name: github whitelist
+    id: 1715393234
+user_rules: []
+dhcp:
+  enabled: false
+  interface_name: ""
+  local_domain_name: lan
+  dhcpv4:
+    gateway_ip: ""
+    subnet_mask: ""
+    range_start: ""
+    range_end: ""
+    lease_duration: 86400
+    icmp_timeout_msec: 1000
+    options: []
+  dhcpv6:
+    range_start: ""
+    lease_duration: 86400
+    ra_slaac_only: false
+    ra_allow_slaac: false
+filtering:
+  blocking_ipv4: ""
+  blocking_ipv6: ""
+  blocked_services:
+    schedule:
+      time_zone: Local
+    ids: []
+  protection_disabled_until: null
+  safe_search:
+    enabled: false
+    bing: true
+    duckduckgo: true
+    ecosia: true
+    google: true
+    pixabay: true
+    yandex: true
+    youtube: true
+  blocking_mode: nxdomain
+  parental_block_host: family-block.dns.adguard.com
+  safebrowsing_block_host: standard-block.dns.adguard.com
+  rewrites: []
+  safe_fs_patterns:
+    - /usr/local/bin/data/userfilters/*
+  safebrowsing_cache_size: 1048576
+  safesearch_cache_size: 1048576
+  parental_cache_size: 1048576
+  cache_time: 30
+  filters_update_interval: 1
+  blocked_response_ttl: 10
+  filtering_enabled: true
+  parental_enabled: false
+  safebrowsing_enabled: false
+  protection_enabled: true
+clients:
+  runtime_sources:
+    whois: true
+    arp: true
+    rdns: false
+    dhcp: true
+    hosts: true
+  persistent: []
+log:
+  enabled: true
+  file: ""
+  max_backups: 0
+  max_size: 100
+  max_age: 3
+  compress: false
+  local_time: false
+  verbose: false
+os:
+  group: ""
+  user: ""
+  rlimit_nofile: 0
+schema_version: 29

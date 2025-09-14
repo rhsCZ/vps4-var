@@ -1,0 +1,651 @@
+[17-Sep-2022 13:29:40 Europe/Prague] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[17-Sep-2022 13:29:40 Europe/Prague] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[17-Sep-2022 13:29:40 Europe/Prague] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[17-Sep-2022 13:29:40 Europe/Prague] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[17-Sep-2022 13:29:46 Europe/Prague] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[17-Sep-2022 13:29:46 Europe/Prague] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[17-Sep-2022 13:29:46 Europe/Prague] PHP Warning:  Undefined array key "email_list" in /var/webmail/plugins/postfixadmin_user_identities/postfixadmin_user_identities.php on line 243
+[17-Sep-2022 13:29:46 Europe/Prague] PHP Warning:  foreach() argument must be of type array|object, null given in /var/webmail/plugins/postfixadmin_user_identities/postfixadmin_user_identities.php on line 243
+[17-Sep-2022 13:29:46 Europe/Prague] PHP Warning:  Undefined array key "email_list" in /var/webmail/plugins/postfixadmin_user_identities/postfixadmin_user_identities.php on line 277
+[17-Sep-2022 13:29:46 Europe/Prague] PHP Warning:  foreach() argument must be of type array|object, null given in /var/webmail/plugins/postfixadmin_user_identities/postfixadmin_user_identities.php on line 277
+[17-Sep-2022 13:29:46 Europe/Prague] PHP Warning:  Undefined array key "email_list" in /var/webmail/plugins/postfixadmin_user_identities/postfixadmin_user_identities.php on line 277
+[17-Sep-2022 13:29:46 Europe/Prague] PHP Warning:  foreach() argument must be of type array|object, null given in /var/webmail/plugins/postfixadmin_user_identities/postfixadmin_user_identities.php on line 277
+[17-Sep-2022 13:29:47 Europe/Prague] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[17-Sep-2022 13:29:47 Europe/Prague] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[17-Sep-2022 13:29:47 Europe/Prague] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[17-Sep-2022 13:29:47 Europe/Prague] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[17-Sep-2022 13:40:55 Europe/Prague] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[17-Sep-2022 13:40:55 Europe/Prague] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[17-Sep-2022 13:40:55 Europe/Prague] PHP Warning:  Undefined array key "email_list" in /var/webmail/plugins/postfixadmin_user_identities/postfixadmin_user_identities.php on line 244
+[17-Sep-2022 13:40:55 Europe/Prague] PHP Warning:  foreach() argument must be of type array|object, null given in /var/webmail/plugins/postfixadmin_user_identities/postfixadmin_user_identities.php on line 244
+[17-Sep-2022 13:40:55 Europe/Prague] PHP Warning:  Undefined array key "email_list" in /var/webmail/plugins/postfixadmin_user_identities/postfixadmin_user_identities.php on line 278
+[17-Sep-2022 13:40:55 Europe/Prague] PHP Warning:  foreach() argument must be of type array|object, null given in /var/webmail/plugins/postfixadmin_user_identities/postfixadmin_user_identities.php on line 278
+[17-Sep-2022 13:40:55 Europe/Prague] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[17-Sep-2022 13:40:55 Europe/Prague] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[17-Sep-2022 13:40:55 Europe/Prague] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[17-Sep-2022 13:40:55 Europe/Prague] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[17-Sep-2022 13:47:54 Europe/Prague] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[17-Sep-2022 13:47:54 Europe/Prague] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[17-Sep-2022 13:50:48 +0200]: <9mvimfp2> PHP Error: Request security check failed (GET /?_task=logout&_token=NLKU46QXJHIPo1ahETDOVRVUtNNfqFLh)
+[17-Sep-2022 13:50:54 Europe/Prague] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[17-Sep-2022 13:50:54 Europe/Prague] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[17-Sep-2022 14:28:18 Europe/Prague] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[17-Sep-2022 14:28:18 Europe/Prague] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[17-Sep-2022 14:30:09 Europe/Prague] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[17-Sep-2022 14:30:09 Europe/Prague] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[17-Sep-2022 14:30:32 Europe/Prague] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[17-Sep-2022 14:30:32 Europe/Prague] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[17-Sep-2022 14:30:32 Europe/Prague] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[17-Sep-2022 14:30:32 Europe/Prague] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[17-Sep-2022 14:30:32 Europe/Prague] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[17-Sep-2022 14:30:32 Europe/Prague] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[17-Sep-2022 14:33:58 Europe/Prague] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[17-Sep-2022 14:33:58 Europe/Prague] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[17-Sep-2022 14:33:59 Europe/Prague] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[17-Sep-2022 14:33:59 Europe/Prague] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[17-Sep-2022 14:33:59 Europe/Prague] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[17-Sep-2022 14:33:59 Europe/Prague] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[17-Sep-2022 14:40:40 Europe/Prague] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[17-Sep-2022 14:40:40 Europe/Prague] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[17-Sep-2022 14:40:40 Europe/Prague] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[17-Sep-2022 14:40:40 Europe/Prague] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[17-Sep-2022 14:40:56 Europe/Prague] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[17-Sep-2022 14:40:56 Europe/Prague] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[17-Sep-2022 14:40:56 Europe/Prague] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[17-Sep-2022 14:40:56 Europe/Prague] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[17-Sep-2022 14:40:58 Europe/Prague] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[17-Sep-2022 14:40:58 Europe/Prague] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[17-Sep-2022 14:40:58 Europe/Prague] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[17-Sep-2022 14:40:58 Europe/Prague] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[17-Sep-2022 14:41:52 Europe/Prague] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[17-Sep-2022 14:41:52 Europe/Prague] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[17-Sep-2022 14:41:52 Europe/Prague] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[17-Sep-2022 14:41:52 Europe/Prague] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[17-Sep-2022 22:05:17 Europe/Prague] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[17-Sep-2022 22:05:17 Europe/Prague] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[17-Sep-2022 22:05:18 Europe/Prague] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[17-Sep-2022 22:05:18 Europe/Prague] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[17-Sep-2022 22:05:18 Europe/Prague] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[17-Sep-2022 22:05:18 Europe/Prague] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[30-Sep-2022 17:18:37 Europe/Prague] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[30-Sep-2022 17:18:37 Europe/Prague] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[30-Sep-2022 17:18:37 Europe/Prague] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[30-Sep-2022 17:18:37 Europe/Prague] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[30-Sep-2022 17:18:37 Europe/Prague] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[30-Sep-2022 17:18:37 Europe/Prague] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[30-Sep-2022 17:19:02 Europe/Prague] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[30-Sep-2022 17:19:02 Europe/Prague] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[30-Sep-2022 17:19:02 Europe/Prague] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[30-Sep-2022 17:19:02 Europe/Prague] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[30-Sep-2022 17:20:03 Europe/Prague] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[30-Sep-2022 17:20:03 Europe/Prague] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[30-Sep-2022 17:20:03 Europe/Prague] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[30-Sep-2022 17:20:03 Europe/Prague] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[30-Sep-2022 18:28:37 Europe/Prague] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[30-Sep-2022 18:28:37 Europe/Prague] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[30-Sep-2022 18:28:37 Europe/Prague] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[30-Sep-2022 18:28:37 Europe/Prague] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[14-Oct-2022 18:46:16 Europe/Prague] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[14-Oct-2022 18:46:16 Europe/Prague] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[14-Oct-2022 18:46:16 Europe/Prague] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[14-Oct-2022 18:46:16 Europe/Prague] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[14-Oct-2022 18:46:16 Europe/Prague] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[14-Oct-2022 18:46:16 Europe/Prague] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[14-Oct-2022 18:56:17 Europe/Prague] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[14-Oct-2022 18:56:17 Europe/Prague] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[14-Oct-2022 18:56:17 Europe/Prague] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[14-Oct-2022 18:56:17 Europe/Prague] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[14-Oct-2022 22:34:49 Europe/Prague] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[14-Oct-2022 22:34:49 Europe/Prague] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[14-Oct-2022 22:34:49 Europe/Prague] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[14-Oct-2022 22:34:49 Europe/Prague] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[14-Oct-2022 22:38:46 Europe/Prague] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[14-Oct-2022 22:38:46 Europe/Prague] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[14-Oct-2022 22:38:46 Europe/Prague] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[14-Oct-2022 22:38:46 Europe/Prague] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[14-Oct-2022 22:38:46 Europe/Prague] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[14-Oct-2022 22:38:46 Europe/Prague] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[14-Oct-2022 22:38:54 Europe/Prague] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[14-Oct-2022 22:38:54 Europe/Prague] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[14-Oct-2022 22:38:54 Europe/Prague] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[14-Oct-2022 22:38:54 Europe/Prague] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[14-Oct-2022 22:54:42 +0200]: <uduen4tp> IMAP Error: Login failed for rhs@rhscze.cf against mail.rhscze.cf from 2a03:3b40:25a:0:ec73:8b1b:b81e:d608. Wrong startup greeting (ssl://mail.rhscze.cf:993): * BYE Auth process broken in /var/webmail/program/lib/Roundcube/rcube_imap.php on line 211 (GET /?_task=mail&_action=list&_refresh=1&_layout=widescreen&_mbox=Koncepty&_page=1&_remote=1&_unlock=loading1665780888453&_=1665779938617)
+[14-Oct-2022 22:54:59 +0200]: <uduen4tp> IMAP Error: Login failed for rhs@rhscze.cf against mail.rhscze.cf from 2a03:3b40:25a:0:ec73:8b1b:b81e:d608. Failed to send LOGIN command in /var/webmail/program/lib/Roundcube/rcube_imap.php on line 211 (POST /?_task=login&_action=login)
+[14-Oct-2022 22:55:31 +0200]: <uduen4tp> IMAP Error: Login failed for rhs@rhscze.cf against mail.rhscze.cf from 2a03:3b40:25a:0:ec73:8b1b:b81e:d608. Failed to send LOGIN command in /var/webmail/program/lib/Roundcube/rcube_imap.php on line 211 (POST /?_task=login&_action=login)
+[14-Oct-2022 22:57:30 +0200]: <uduen4tp> IMAP Error: Login failed for rhs@rhscze.cf against mail.rhscze.cf from 2a03:3b40:25a:0:ec73:8b1b:b81e:d608. Failed to send LOGIN command in /var/webmail/program/lib/Roundcube/rcube_imap.php on line 211 (POST /?_task=login&_action=login)
+[14-Oct-2022 22:58:44 +0200]: <uduen4tp> IMAP Error: Login failed for rhs@rhscze.cf against mail.rhscze.cf from 2a03:3b40:25a:0:ec73:8b1b:b81e:d608. AUTHENTICATE CRAM-MD5:  in /var/webmail/program/lib/Roundcube/rcube_imap.php on line 211 (POST /?_task=login&_action=login)
+[14-Oct-2022 22:58:47 +0200]: <uduen4tp> IMAP Error: Login failed for rhs@rhscze.cf against mail.rhscze.cf from 2a03:3b40:25a:0:ec73:8b1b:b81e:d608. AUTHENTICATE CRAM-MD5:  in /var/webmail/program/lib/Roundcube/rcube_imap.php on line 211 (POST /?_task=login&_action=login)
+[14-Oct-2022 23:00:41 Europe/Prague] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[14-Oct-2022 23:00:41 Europe/Prague] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[14-Oct-2022 23:02:13 Europe/Prague] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[14-Oct-2022 23:02:13 Europe/Prague] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[14-Oct-2022 23:04:44 Europe/Prague] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[14-Oct-2022 23:04:44 Europe/Prague] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[14-Oct-2022 23:04:46 Europe/Prague] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[14-Oct-2022 23:04:46 Europe/Prague] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[14-Oct-2022 23:04:46 Europe/Prague] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[14-Oct-2022 23:04:46 Europe/Prague] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[14-Oct-2022 23:08:53 Europe/Prague] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[14-Oct-2022 23:08:53 Europe/Prague] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[14-Oct-2022 23:08:55 Europe/Prague] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[14-Oct-2022 23:08:55 Europe/Prague] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[14-Oct-2022 23:08:55 Europe/Prague] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[14-Oct-2022 23:08:55 Europe/Prague] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[14-Oct-2022 23:08:58 Europe/Prague] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[14-Oct-2022 23:08:58 Europe/Prague] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[14-Oct-2022 23:08:58 Europe/Prague] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[14-Oct-2022 23:08:58 Europe/Prague] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[14-Oct-2022 23:09:07 Europe/Prague] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[14-Oct-2022 23:09:07 Europe/Prague] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[14-Oct-2022 23:09:07 Europe/Prague] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[14-Oct-2022 23:09:07 Europe/Prague] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[14-Oct-2022 23:09:07 Europe/Prague] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[14-Oct-2022 23:09:07 Europe/Prague] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[14-Oct-2022 23:10:07 Europe/Prague] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[14-Oct-2022 23:10:07 Europe/Prague] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[14-Oct-2022 23:10:07 Europe/Prague] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[14-Oct-2022 23:10:07 Europe/Prague] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[14-Oct-2022 23:18:53 Europe/Prague] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[14-Oct-2022 23:18:53 Europe/Prague] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[14-Oct-2022 23:18:53 Europe/Prague] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[14-Oct-2022 23:18:53 Europe/Prague] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[14-Oct-2022 23:19:53 Europe/Prague] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[14-Oct-2022 23:19:53 Europe/Prague] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[14-Oct-2022 23:19:53 Europe/Prague] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[14-Oct-2022 23:19:53 Europe/Prague] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[14-Oct-2022 23:24:26 Europe/Prague] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[14-Oct-2022 23:24:26 Europe/Prague] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[14-Oct-2022 23:24:26 Europe/Prague] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[14-Oct-2022 23:24:26 Europe/Prague] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[14-Oct-2022 23:26:23 Europe/Prague] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[14-Oct-2022 23:26:23 Europe/Prague] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[14-Oct-2022 23:26:23 Europe/Prague] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[14-Oct-2022 23:26:23 Europe/Prague] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[14-Oct-2022 23:26:25 Europe/Prague] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[14-Oct-2022 23:26:25 Europe/Prague] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[14-Oct-2022 23:26:25 Europe/Prague] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[14-Oct-2022 23:26:25 Europe/Prague] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[14-Oct-2022 23:54:31 Europe/Prague] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[14-Oct-2022 23:54:31 Europe/Prague] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[14-Oct-2022 23:54:31 Europe/Prague] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[14-Oct-2022 23:54:31 Europe/Prague] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[14-Oct-2022 23:54:37 Europe/Prague] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[14-Oct-2022 23:54:37 Europe/Prague] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[14-Oct-2022 23:54:37 Europe/Prague] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[14-Oct-2022 23:54:37 Europe/Prague] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[15-Oct-2022 15:00:14 Europe/Prague] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[15-Oct-2022 15:00:14 Europe/Prague] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[15-Oct-2022 15:00:15 Europe/Prague] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[15-Oct-2022 15:00:15 Europe/Prague] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[15-Oct-2022 15:00:15 Europe/Prague] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[15-Oct-2022 15:00:15 Europe/Prague] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[15-Oct-2022 15:00:50 Europe/Prague] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[15-Oct-2022 15:00:50 Europe/Prague] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[15-Oct-2022 15:00:50 Europe/Prague] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[15-Oct-2022 15:00:50 Europe/Prague] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[15-Oct-2022 18:06:33 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[15-Oct-2022 18:06:33 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[15-Oct-2022 18:06:34 Europe/Berlin] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[15-Oct-2022 18:06:34 Europe/Berlin] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[15-Oct-2022 18:06:34 Europe/Berlin] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[15-Oct-2022 18:06:34 Europe/Berlin] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[20-Oct-2022 16:23:54 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[20-Oct-2022 16:23:54 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[20-Oct-2022 16:56:06 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[20-Oct-2022 16:56:06 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[20-Oct-2022 17:15:31 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[20-Oct-2022 17:15:31 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[20-Oct-2022 17:19:10 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[20-Oct-2022 17:19:10 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[20-Oct-2022 17:29:39 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[20-Oct-2022 17:29:39 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[20-Oct-2022 17:29:39 Europe/Berlin] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[20-Oct-2022 17:29:39 Europe/Berlin] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[20-Oct-2022 17:29:39 Europe/Berlin] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[20-Oct-2022 17:29:39 Europe/Berlin] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[20-Oct-2022 17:30:25 Europe/Berlin] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[20-Oct-2022 17:30:25 Europe/Berlin] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[20-Oct-2022 17:30:25 Europe/Berlin] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[20-Oct-2022 17:30:25 Europe/Berlin] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[20-Oct-2022 17:32:33 Europe/Berlin] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[20-Oct-2022 17:32:33 Europe/Berlin] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[20-Oct-2022 17:32:33 Europe/Berlin] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[20-Oct-2022 17:32:33 Europe/Berlin] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[20-Oct-2022 17:35:41 Europe/Berlin] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[20-Oct-2022 17:35:41 Europe/Berlin] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[20-Oct-2022 17:35:41 Europe/Berlin] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[20-Oct-2022 17:35:41 Europe/Berlin] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[20-Oct-2022 19:16:09 Europe/Berlin] PHP Warning:  Uninitialized string offset 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2576
+[20-Oct-2022 19:16:09 Europe/Berlin] PHP Warning:  Undefined array key 0 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2577
+[20-Oct-2022 19:16:09 Europe/Berlin] PHP Warning:  Undefined array key 1 in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2585
+[20-Oct-2022 19:16:09 Europe/Berlin] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/program/lib/Roundcube/rcube_imap_generic.php on line 2588
+[20-Oct-2022 19:16:26 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[20-Oct-2022 19:16:26 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[22-Oct-2022 01:29:17 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[22-Oct-2022 01:29:17 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[22-Oct-2022 01:40:52 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[22-Oct-2022 01:40:52 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[22-Oct-2022 01:49:10 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[22-Oct-2022 01:49:10 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[22-Oct-2022 02:30:09 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[22-Oct-2022 02:30:09 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[28-Oct-2022 23:10:05 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[28-Oct-2022 23:10:05 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[29-Oct-2022 00:21:18 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[29-Oct-2022 00:21:18 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[29-Oct-2022 00:21:45 +0200]: <kp2k6ig0> PHP Error: Request security check failed (POST /?_task=mail&_action=refresh)
+[29-Oct-2022 14:55:32 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[29-Oct-2022 14:55:32 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[07-Nov-2022 18:53:54 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[07-Nov-2022 18:53:54 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[07-Nov-2022 18:55:04 Europe/Berlin] PHP Deprecated:  strlen(): Passing null to parameter #1 ($string) of type string is deprecated in /var/webmail/vendor/pear/net_sieve/Sieve.php on line 271
+[08-Jan-2023 12:15:54 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[08-Jan-2023 12:15:54 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[19-Jan-2023 00:22:32 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[19-Jan-2023 00:22:32 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[30-Jan-2023 06:41:31 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[30-Jan-2023 06:41:31 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[24-May-2023 12:11:41 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[24-May-2023 12:11:41 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[27-May-2023 10:53:26 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[27-May-2023 10:53:26 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[08-Jul-2023 23:12:53 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[08-Jul-2023 23:12:53 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[08-Jul-2023 23:19:34 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[08-Jul-2023 23:19:34 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[09-Jul-2023 00:12:33 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[09-Jul-2023 00:12:33 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[09-Jul-2023 00:13:26 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[09-Jul-2023 00:13:26 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[09-Jul-2023 01:31:38 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[09-Jul-2023 01:31:38 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[09-Jul-2023 09:58:25 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[09-Jul-2023 09:58:25 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[09-Jul-2023 22:34:10 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[09-Jul-2023 22:34:10 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[09-Jul-2023 22:49:25 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[09-Jul-2023 22:49:25 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[21-Jul-2023 12:19:16 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[21-Jul-2023 12:19:16 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[23-Jul-2023 11:19:54 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[23-Jul-2023 11:19:54 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[17-Sep-2023 12:43:21 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "INTL_IDNA_VARIANT_UTS46" in /var/webmail/program/lib/Roundcube/rcube_utils.php:1146
+Stack trace:
+#0 /var/webmail/program/lib/Roundcube/rcube_utils.php(1110): rcube_utils::idn_convert()
+#1 /var/webmail/program/include/rcmail.php(752): rcube_utils::idn_to_ascii()
+#2 /var/webmail/index.php(119): rcmail->login()
+#3 {main}
+  thrown in /var/webmail/program/lib/Roundcube/rcube_utils.php on line 1146
+[17-Sep-2023 16:28:32 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "INTL_IDNA_VARIANT_UTS46" in /var/webmail/program/lib/Roundcube/rcube_utils.php:1146
+Stack trace:
+#0 /var/webmail/program/lib/Roundcube/rcube_utils.php(1110): rcube_utils::idn_convert()
+#1 /var/webmail/program/include/rcmail.php(752): rcube_utils::idn_to_ascii()
+#2 /var/webmail/index.php(119): rcmail->login()
+#3 {main}
+  thrown in /var/webmail/program/lib/Roundcube/rcube_utils.php on line 1146
+[18-Sep-2023 19:01:36 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[18-Sep-2023 19:01:36 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[20-Sep-2023 07:04:59 +0200]: <6208l9dg> IMAP Error: Login failed for rhs@rhscz.eu against localhost from 2a03:3b40:25a:0:a84e:62d6:9184:d314. Could not connect to ssl://localhost:993: Unknown reason in /var/webmail/program/lib/Roundcube/rcube_imap.php on line 211 (POST /?_task=login&_action=login)
+[20-Sep-2023 07:06:08 +0200]: <6208l9dg> IMAP Error: Login failed for rhs@rhscz.eu against 127.0.0.1 from 2a03:3b40:25a:0:a84e:62d6:9184:d314. Could not connect to ssl://127.0.0.1:993: Unknown reason in /var/webmail/program/lib/Roundcube/rcube_imap.php on line 211 (POST /?_task=login&_action=login)
+[20-Sep-2023 07:14:25 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[20-Sep-2023 07:14:25 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[22-Sep-2023 14:50:23 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[22-Sep-2023 14:50:23 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[22-Sep-2023 14:53:31 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[22-Sep-2023 14:53:31 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[07-Oct-2023 18:15:05 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[07-Oct-2023 18:15:05 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[25-Oct-2023 23:13:56 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[25-Oct-2023 23:13:56 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[26-Oct-2023 16:00:38 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[26-Oct-2023 16:00:38 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[26-Oct-2023 17:02:29 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[26-Oct-2023 17:02:29 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[27-Oct-2023 15:38:40 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[27-Oct-2023 15:38:40 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[31-Oct-2023 20:56:29 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[31-Oct-2023 20:56:29 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[20-Nov-2023 20:09:29 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[20-Nov-2023 20:09:29 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[29-Nov-2023 12:55:54 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[29-Nov-2023 12:55:54 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[14-Jan-2024 23:33:12 +0100]: <n7miv5r2> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[15-Jan-2024 18:46:52 +0100]: <6jms71g0> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[16-Jan-2024 00:39:34 +0100]: <97oeg204> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[16-Jan-2024 01:34:05 +0100]: <cus60j0t> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[17-Jan-2024 01:52:52 +0100]: <34h116ff> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[17-Jan-2024 07:05:11 +0100]: <110hqsen> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[17-Jan-2024 22:50:59 +0100]: <6gr9obl7> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[18-Jan-2024 00:52:06 +0100]: <hemo635g> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[18-Jan-2024 03:17:08 +0100]: <tro8imqo> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[19-Jan-2024 03:26:09 +0100]: <tqhfjfl6> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[19-Jan-2024 03:26:09 +0100]: <n2sgfp2j> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[19-Jan-2024 03:26:10 +0100]: <kv3l95nm> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /?=PHPE9568F36-D428-11d2-A769-00AA001ACF42)
+[19-Jan-2024 03:26:10 +0100]: <1v4k0fq0> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000)
+[19-Jan-2024 03:26:11 +0100]: <8cpqrrbo> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (HEAD /)
+[19-Jan-2024 03:26:11 +0100]: <ioal083l> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[19-Jan-2024 03:26:13 +0100]: <i8bhnb9r> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[19-Jan-2024 03:26:13 +0100]: <pv68uhks> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (HEAD /)
+[19-Jan-2024 03:26:13 +0100]: <q5jfbum1> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[19-Jan-2024 03:26:20 +0100]: <c3ofdfrm> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /index.php)
+[19-Jan-2024 03:26:27 +0100]: <bk9gfjb1> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[19-Jan-2024 23:24:29 +0100]: <a86df52s> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[20-Jan-2024 05:27:00 +0100]: <bruu0co2> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[21-Jan-2024 00:16:12 +0100]: <uctiibsv> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[21-Jan-2024 01:04:47 +0100]: <dhhm1sa9> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[21-Jan-2024 02:47:48 +0100]: <a1n74ssn> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[21-Jan-2024 03:46:36 +0100]: <215s2veq> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[21-Jan-2024 04:41:55 +0100]: <pj2566gm> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[22-Jan-2024 01:24:03 +0100]: <q7qtvp46> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[22-Jan-2024 21:22:00 +0100]: <p8ehpp22> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[23-Jan-2024 07:17:40 +0100]: <rs04erko> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[23-Jan-2024 09:06:11 +0100]: <htunjjv3> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[24-Jan-2024 15:48:33 +0100]: <bn5icb2s> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[24-Jan-2024 15:55:59 +0100]: <q8ve74d5> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[24-Jan-2024 16:10:00 +0100]: <g059p0p1> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[24-Jan-2024 16:49:05 +0100]: <car0vdra> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[24-Jan-2024 17:22:43 +0100]: <ectoonp1> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[26-Jan-2024 18:27:38 +0100]: <4dh3nmsq> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[26-Jan-2024 18:27:39 +0100]: <6mp8meas> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[27-Jan-2024 02:06:42 +0100]: <3s0577b9> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[27-Jan-2024 06:50:34 +0100]: <6dpp6vof> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[28-Jan-2024 11:18:17 +0100]: <agm9dm1q> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[29-Jan-2024 02:19:40 +0100]: <ka8l8gte> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[29-Jan-2024 10:33:31 +0100]: <81g32pb3> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[31-Jan-2024 01:52:34 +0100]: <4bads3dl> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[31-Jan-2024 09:56:37 +0100]: <3jqcs0gs> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[31-Jan-2024 13:59:51 +0100]: <gkpv6gts> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[31-Jan-2024 20:01:48 +0100]: <40ovi8io> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[01-Feb-2024 19:14:38 +0100]: <k2e1vos0> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[02-Feb-2024 12:28:43 +0100]: <cdn89gie> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[03-Feb-2024 13:45:50 +0100]: <vgss3dou> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[04-Feb-2024 07:56:16 +0100]: <pm6dfqvs> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[05-Feb-2024 09:02:25 +0100]: <sbjm8b8n> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[05-Feb-2024 09:48:32 +0100]: <mib055dq> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[05-Feb-2024 19:38:02 +0100]: <2fjlta23> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[06-Feb-2024 09:58:00 +0100]: <33pllqr8> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[08-Feb-2024 17:02:55 +0100]: <asjn84h8> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[08-Feb-2024 17:03:16 +0100]: <j8p8262m> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[08-Feb-2024 17:04:20 +0100]: <epucnp3s> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[08-Feb-2024 17:04:27 +0100]: <epucnp3s> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[08-Feb-2024 17:05:03 +0100]: <r42beb93> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[08-Feb-2024 18:22:49 +0100]: <87llpbkr> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[08-Feb-2024 18:25:46 +0100]: <10c8ve14> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[08-Feb-2024 22:20:53 +0100]: <tdub74d4> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[10-Feb-2024 06:59:29 +0100]: <4qvs5jga> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[10-Feb-2024 08:30:56 +0100]: <e3e3rgba> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[10-Feb-2024 22:00:09 +0100]: <7314chst> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[11-Feb-2024 02:55:46 +0100]: <l0hgkaaj> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[11-Feb-2024 11:07:32 +0100]: <epu2prto> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[11-Feb-2024 11:15:25 +0100]: <85bpkoa2> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[12-Feb-2024 23:04:00 +0100]: <6uth5nti> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (HEAD /)
+[12-Feb-2024 23:04:01 +0100]: <pm3vm1kr> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[13-Feb-2024 15:10:15 +0100]: <qiq88mk5> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[13-Feb-2024 15:10:15 +0100]: <lsrn8rp9> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (HEAD /)
+[13-Feb-2024 15:10:15 +0100]: <k6ao9q96> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[13-Feb-2024 15:10:17 +0100]: <2eirqt6v> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[13-Feb-2024 15:10:17 +0100]: <j4d2bgvh> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /index.php)
+[13-Feb-2024 15:10:17 +0100]: <t646rquh> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[13-Feb-2024 15:10:17 +0100]: <69jfgnav> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[13-Feb-2024 15:10:17 +0100]: <he2jas4j> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[13-Feb-2024 15:10:18 +0100]: <te25dlna> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (HEAD /)
+[13-Feb-2024 15:10:18 +0100]: <5ckp9auu> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[13-Feb-2024 15:10:32 +0100]: <eoe5prlj> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[13-Feb-2024 22:06:03 +0100]: <ncudns29> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[14-Feb-2024 04:55:24 +0100]: <nevoa277> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[14-Feb-2024 04:55:24 +0100]: <9ded6vab> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (POST /)
+[15-Feb-2024 06:00:30 +0100]: <si4mcje3> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[16-Feb-2024 09:40:13 +0100]: <e07vabiv> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[17-Feb-2024 04:17:02 +0100]: <nkhj0eur> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[17-Feb-2024 13:20:03 +0100]: <cdplvo6d> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[18-Feb-2024 04:31:05 +0100]: <sea1r5s9> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[18-Feb-2024 16:09:22 +0100]: <e3jt1l8b> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[19-Feb-2024 14:42:31 +0100]: <vlmn4cpc> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[20-Feb-2024 03:57:55 +0100]: <tc8ov5e6> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[20-Feb-2024 03:57:56 +0100]: <uruchao7> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[20-Feb-2024 06:21:49 +0100]: <jl5atvc0> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[20-Feb-2024 12:43:43 +0100]: <b8j79o70> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[20-Feb-2024 20:18:17 +0100]: <o36d0cqd> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (HEAD /)
+[20-Feb-2024 20:18:17 +0100]: <b6iub271> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[20-Feb-2024 20:18:17 +0100]: <5hudh606> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[20-Feb-2024 20:18:17 +0100]: <400buk7u> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[20-Feb-2024 20:18:17 +0100]: <uj90a013> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (HEAD /)
+[20-Feb-2024 23:59:55 +0100]: <jjfl8lvc> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (HEAD /)
+[20-Feb-2024 23:59:55 +0100]: <5fnvgrp0> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[20-Feb-2024 23:59:55 +0100]: <7mt1dh7r> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[20-Feb-2024 23:59:56 +0100]: <ilo1b30l> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[20-Feb-2024 23:59:56 +0100]: <0vpq2p20> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (HEAD /)
+[20-Feb-2024 23:59:57 +0100]: <r2vvv4jf> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[21-Feb-2024 00:00:00 +0100]: <bhulnbck> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[21-Feb-2024 00:00:01 +0100]: <m7rt1i2f> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[21-Feb-2024 00:00:01 +0100]: <98ufe20s> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[21-Feb-2024 00:00:14 +0100]: <hvgv8rv4> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[21-Feb-2024 05:25:07 +0100]: <g7td8ukm> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[21-Feb-2024 09:17:31 +0100]: <9i96q9ca> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[21-Feb-2024 20:38:03 +0100]: <naa0dmgf> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[21-Feb-2024 22:29:48 +0100]: <fhind8rc> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[22-Feb-2024 00:40:16 +0100]: <prfk6lrt> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[22-Feb-2024 16:18:43 +0100]: <emi3aql4> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[22-Feb-2024 16:29:36 +0100]: <o47q96ap> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[22-Feb-2024 23:46:05 +0100]: <g6f3or7c> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[25-Feb-2024 03:49:09 +0100]: <pd0d9cc7> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[25-Feb-2024 05:24:35 +0100]: <pl80vb99> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[25-Feb-2024 05:24:35 +0100]: <b13f7stl> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[25-Feb-2024 05:24:35 +0100]: <n0tpuqvj> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[25-Feb-2024 05:24:37 +0100]: <7sli2jrb> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[25-Feb-2024 05:24:37 +0100]: <r8d0f4td> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[25-Feb-2024 05:24:38 +0100]: <6a7u5ssl> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[25-Feb-2024 05:24:38 +0100]: <mn5klphc> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (HEAD /)
+[25-Feb-2024 05:24:45 +0100]: <cr2a6c02> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[25-Feb-2024 20:01:39 +0100]: <50aal41e> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[25-Feb-2024 21:20:56 +0100]: <vv0t4mt3> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[26-Feb-2024 21:42:02 +0100]: <ela19cg4> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[26-Feb-2024 21:42:12 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[26-Feb-2024 21:42:12 Europe/Berlin] PHP Stack trace:
+[26-Feb-2024 21:42:12 Europe/Berlin] PHP   1. {main}() /var/webmail/index.php:0
+[26-Feb-2024 21:42:12 Europe/Berlin] PHP   2. rcube_plugin_api->exec_hook($hook = 'login_after', $args = ['_task' => 'mail']) /var/webmail/index.php:149
+[26-Feb-2024 21:42:12 Europe/Berlin] PHP   3. call_user_func:{/var/webmail/program/lib/Roundcube/rcube_plugin_api.php:520}($callback = [0 => class postfixadmin_user_identities { public $ID = 'postfixadmin_user_identities'; public $api = class rcube_plugin_api { ... }; public $task = 'login'; public $noajax = FALSE; public $noframe = FALSE; public $allowed_prefs = NULL; protected $home = '/var/webmail/plugins/postfixadmin_user_identities'; protected $urlbase = 'plugins/postfixadmin_user_identities/'; private ${rcube_plugin}mytask = NULL; private ${rcube_plugin}loaded_config = [...]; private $rc = class rcmail { ... }; private $db = NULL }, 1 => 'recheck_identities'], ...$args = variadic()) /var/webmail/program/lib/Roundcube/rcube_plugin_api.php:520
+[26-Feb-2024 21:42:12 Europe/Berlin] PHP   4. postfixadmin_user_identities->recheck_identities($args = ['_task' => 'mail', 'abort' => FALSE]) /var/webmail/program/lib/Roundcube/rcube_plugin_api.php:520
+[26-Feb-2024 21:42:12 Europe/Berlin] PHP   5. rcube_plugin->load_config($fname = 'config.inc.php.dist') /var/webmail/plugins/postfixadmin_user_identities/postfixadmin_user_identities.php:230
+[26-Feb-2024 21:42:12 Europe/Berlin] PHP   6. rcube_config->load_from_file($file = '/var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist') /var/webmail/program/lib/Roundcube/rcube_plugin.php:164
+[26-Feb-2024 21:42:12 Europe/Berlin] PHP   7. include() /var/webmail/program/lib/Roundcube/rcube_config.php:313
+[26-Feb-2024 21:42:12 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[26-Feb-2024 21:42:12 Europe/Berlin] PHP Stack trace:
+[26-Feb-2024 21:42:12 Europe/Berlin] PHP   1. {main}() /var/webmail/index.php:0
+[26-Feb-2024 21:42:12 Europe/Berlin] PHP   2. rcube_plugin_api->exec_hook($hook = 'login_after', $args = ['_task' => 'mail']) /var/webmail/index.php:149
+[26-Feb-2024 21:42:12 Europe/Berlin] PHP   3. call_user_func:{/var/webmail/program/lib/Roundcube/rcube_plugin_api.php:520}($callback = [0 => class postfixadmin_user_identities { public $ID = 'postfixadmin_user_identities'; public $api = class rcube_plugin_api { ... }; public $task = 'login'; public $noajax = FALSE; public $noframe = FALSE; public $allowed_prefs = NULL; protected $home = '/var/webmail/plugins/postfixadmin_user_identities'; protected $urlbase = 'plugins/postfixadmin_user_identities/'; private ${rcube_plugin}mytask = NULL; private ${rcube_plugin}loaded_config = [...]; private $rc = class rcmail { ... }; private $db = NULL }, 1 => 'recheck_identities'], ...$args = variadic()) /var/webmail/program/lib/Roundcube/rcube_plugin_api.php:520
+[26-Feb-2024 21:42:12 Europe/Berlin] PHP   4. postfixadmin_user_identities->recheck_identities($args = ['_task' => 'mail', 'abort' => FALSE]) /var/webmail/program/lib/Roundcube/rcube_plugin_api.php:520
+[26-Feb-2024 21:42:12 Europe/Berlin] PHP   5. rcube_plugin->load_config($fname = 'config.inc.php.dist') /var/webmail/plugins/postfixadmin_user_identities/postfixadmin_user_identities.php:230
+[26-Feb-2024 21:42:12 Europe/Berlin] PHP   6. rcube_config->load_from_file($file = '/var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist') /var/webmail/program/lib/Roundcube/rcube_plugin.php:164
+[26-Feb-2024 21:42:12 Europe/Berlin] PHP   7. include() /var/webmail/program/lib/Roundcube/rcube_config.php:313
+[26-Feb-2024 21:42:12 +0100]: <1ji4l438> PHP Error: Request security check failed (POST /?_task=login&_action=login)
+[26-Feb-2024 21:42:12 +0100]: <1ji4l438> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (POST /?_task=login&_action=login)
+[26-Feb-2024 21:42:16 +0100]: <1ji4l438> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[26-Feb-2024 21:42:24 +0100]: <1ji4l438> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[26-Feb-2024 21:42:28 +0100]: <1ji4l438> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[26-Feb-2024 21:42:30 +0100]: <1ji4l438> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[26-Feb-2024 22:10:22 +0100]: <ad2ah51r> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[26-Feb-2024 22:24:09 +0100]: <c51obfn4> PHP Error: Invalid request in /var/webmail/program/include/rcmail.php on line 299 (GET /)
+[27-Feb-2024 14:51:09 +0100]: <e6iojjk3> PHP Error: Request security check failed (GET /?_task=logout)
+[27-Feb-2024 14:51:18 +0100]: <e6iojjk3> PHP Error: Request security check failed (GET /?_task=logout)
+[27-Feb-2024 14:57:00 +0100]: <ieu0pg3e> PHP Error: Request security check failed (GET /?_task=logout)
+[27-Feb-2024 14:57:03 +0100]: <ieu0pg3e> PHP Error: Request security check failed (GET /?_task=logout)
+[27-Feb-2024 15:08:46 +0100]: <deu3jig6> PHP Error: Request security check failed (GET /?_task=logout)
+[27-Feb-2024 16:03:29 +0100]: <3v8qca4b> PHP Error: Request security check failed (GET /?_task=logout)
+[27-Feb-2024 16:26:33 +0100]: <3v8qca4b> IMAP Error: Login failed for rhs@rhscz.eu against imap.rhscz.eu from 2a03:3b40:25a:0:e954:351f:d90a:58f1. AUTHENTICATE PLAIN: Authentication failed. in /var/webmail/program/lib/Roundcube/rcube_imap.php on line 211 (POST /?_task=login&_action=login)
+[27-Feb-2024 18:35:32 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[27-Feb-2024 18:35:32 Europe/Berlin] PHP Stack trace:
+[27-Feb-2024 18:35:32 Europe/Berlin] PHP   1. {main}() /var/webmail/index.php:0
+[27-Feb-2024 18:35:32 Europe/Berlin] PHP   2. rcube_plugin_api->exec_hook($hook = 'login_after', $args = ['_task' => 'mail']) /var/webmail/index.php:149
+[27-Feb-2024 18:35:32 Europe/Berlin] PHP   3. postfixadmin_user_identities->recheck_identities($args = ['_task' => 'mail', 'abort' => FALSE]) /var/webmail/program/lib/Roundcube/rcube_plugin_api.php:520
+[27-Feb-2024 18:35:32 Europe/Berlin] PHP   4. rcube_plugin->load_config($fname = 'config.inc.php.dist') /var/webmail/plugins/postfixadmin_user_identities/postfixadmin_user_identities.php:230
+[27-Feb-2024 18:35:32 Europe/Berlin] PHP   5. rcube_config->load_from_file($file = '/var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist') /var/webmail/program/lib/Roundcube/rcube_plugin.php:164
+[27-Feb-2024 18:35:32 Europe/Berlin] PHP   6. include() /var/webmail/program/lib/Roundcube/rcube_config.php:313
+[27-Feb-2024 18:35:32 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[27-Feb-2024 18:35:32 Europe/Berlin] PHP Stack trace:
+[27-Feb-2024 18:35:32 Europe/Berlin] PHP   1. {main}() /var/webmail/index.php:0
+[27-Feb-2024 18:35:32 Europe/Berlin] PHP   2. rcube_plugin_api->exec_hook($hook = 'login_after', $args = ['_task' => 'mail']) /var/webmail/index.php:149
+[27-Feb-2024 18:35:32 Europe/Berlin] PHP   3. postfixadmin_user_identities->recheck_identities($args = ['_task' => 'mail', 'abort' => FALSE]) /var/webmail/program/lib/Roundcube/rcube_plugin_api.php:520
+[27-Feb-2024 18:35:32 Europe/Berlin] PHP   4. rcube_plugin->load_config($fname = 'config.inc.php.dist') /var/webmail/plugins/postfixadmin_user_identities/postfixadmin_user_identities.php:230
+[27-Feb-2024 18:35:32 Europe/Berlin] PHP   5. rcube_config->load_from_file($file = '/var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist') /var/webmail/program/lib/Roundcube/rcube_plugin.php:164
+[27-Feb-2024 18:35:32 Europe/Berlin] PHP   6. include() /var/webmail/program/lib/Roundcube/rcube_config.php:313
+[27-Feb-2024 18:36:56 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[27-Feb-2024 18:36:56 Europe/Berlin] PHP Stack trace:
+[27-Feb-2024 18:36:56 Europe/Berlin] PHP   1. {main}() /var/webmail/index.php:0
+[27-Feb-2024 18:36:56 Europe/Berlin] PHP   2. rcube_plugin_api->exec_hook($hook = 'login_after', $args = ['_task' => 'mail']) /var/webmail/index.php:149
+[27-Feb-2024 18:36:56 Europe/Berlin] PHP   3. postfixadmin_user_identities->recheck_identities($args = ['_task' => 'mail', 'abort' => FALSE]) /var/webmail/program/lib/Roundcube/rcube_plugin_api.php:520
+[27-Feb-2024 18:36:56 Europe/Berlin] PHP   4. rcube_plugin->load_config($fname = 'config.inc.php.dist') /var/webmail/plugins/postfixadmin_user_identities/postfixadmin_user_identities.php:230
+[27-Feb-2024 18:36:56 Europe/Berlin] PHP   5. rcube_config->load_from_file($file = '/var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist') /var/webmail/program/lib/Roundcube/rcube_plugin.php:164
+[27-Feb-2024 18:36:56 Europe/Berlin] PHP   6. include() /var/webmail/program/lib/Roundcube/rcube_config.php:313
+[27-Feb-2024 18:36:56 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[27-Feb-2024 18:36:56 Europe/Berlin] PHP Stack trace:
+[27-Feb-2024 18:36:56 Europe/Berlin] PHP   1. {main}() /var/webmail/index.php:0
+[27-Feb-2024 18:36:56 Europe/Berlin] PHP   2. rcube_plugin_api->exec_hook($hook = 'login_after', $args = ['_task' => 'mail']) /var/webmail/index.php:149
+[27-Feb-2024 18:36:56 Europe/Berlin] PHP   3. postfixadmin_user_identities->recheck_identities($args = ['_task' => 'mail', 'abort' => FALSE]) /var/webmail/program/lib/Roundcube/rcube_plugin_api.php:520
+[27-Feb-2024 18:36:56 Europe/Berlin] PHP   4. rcube_plugin->load_config($fname = 'config.inc.php.dist') /var/webmail/plugins/postfixadmin_user_identities/postfixadmin_user_identities.php:230
+[27-Feb-2024 18:36:56 Europe/Berlin] PHP   5. rcube_config->load_from_file($file = '/var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist') /var/webmail/program/lib/Roundcube/rcube_plugin.php:164
+[27-Feb-2024 18:36:56 Europe/Berlin] PHP   6. include() /var/webmail/program/lib/Roundcube/rcube_config.php:313
+[27-Feb-2024 19:37:17 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[27-Feb-2024 19:37:17 Europe/Berlin] PHP Stack trace:
+[27-Feb-2024 19:37:17 Europe/Berlin] PHP   1. {main}() /var/webmail/index.php:0
+[27-Feb-2024 19:37:17 Europe/Berlin] PHP   2. rcube_plugin_api->exec_hook($hook = 'login_after', $args = ['_task' => 'mail']) /var/webmail/index.php:149
+[27-Feb-2024 19:37:17 Europe/Berlin] PHP   3. postfixadmin_user_identities->recheck_identities($args = ['_task' => 'mail', 'abort' => FALSE]) /var/webmail/program/lib/Roundcube/rcube_plugin_api.php:520
+[27-Feb-2024 19:37:17 Europe/Berlin] PHP   4. rcube_plugin->load_config($fname = 'config.inc.php.dist') /var/webmail/plugins/postfixadmin_user_identities/postfixadmin_user_identities.php:230
+[27-Feb-2024 19:37:17 Europe/Berlin] PHP   5. rcube_config->load_from_file($file = '/var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist') /var/webmail/program/lib/Roundcube/rcube_plugin.php:164
+[27-Feb-2024 19:37:17 Europe/Berlin] PHP   6. include() /var/webmail/program/lib/Roundcube/rcube_config.php:313
+[27-Feb-2024 19:37:17 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[27-Feb-2024 19:37:17 Europe/Berlin] PHP Stack trace:
+[27-Feb-2024 19:37:17 Europe/Berlin] PHP   1. {main}() /var/webmail/index.php:0
+[27-Feb-2024 19:37:17 Europe/Berlin] PHP   2. rcube_plugin_api->exec_hook($hook = 'login_after', $args = ['_task' => 'mail']) /var/webmail/index.php:149
+[27-Feb-2024 19:37:17 Europe/Berlin] PHP   3. postfixadmin_user_identities->recheck_identities($args = ['_task' => 'mail', 'abort' => FALSE]) /var/webmail/program/lib/Roundcube/rcube_plugin_api.php:520
+[27-Feb-2024 19:37:17 Europe/Berlin] PHP   4. rcube_plugin->load_config($fname = 'config.inc.php.dist') /var/webmail/plugins/postfixadmin_user_identities/postfixadmin_user_identities.php:230
+[27-Feb-2024 19:37:17 Europe/Berlin] PHP   5. rcube_config->load_from_file($file = '/var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist') /var/webmail/program/lib/Roundcube/rcube_plugin.php:164
+[27-Feb-2024 19:37:17 Europe/Berlin] PHP   6. include() /var/webmail/program/lib/Roundcube/rcube_config.php:313
+[27-Feb-2024 19:47:39 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[27-Feb-2024 19:47:39 Europe/Berlin] PHP Stack trace:
+[27-Feb-2024 19:47:39 Europe/Berlin] PHP   1. {main}() /var/webmail/index.php:0
+[27-Feb-2024 19:47:39 Europe/Berlin] PHP   2. rcmail->login($username = 'rhs@rhscz.eu', $password = 'C0wler$k3wfr34k7289', $host = 'ssl://imap.rhscz.eu:993', $cookiecheck = TRUE) /var/webmail/index.php:119
+[27-Feb-2024 19:47:39 Europe/Berlin] PHP   3. rcube_user::create($user = 'rhs@rhscz.eu', $host = 'imap.rhscz.eu') /var/webmail/program/include/rcmail.php:804
+[27-Feb-2024 19:47:39 Europe/Berlin] PHP   4. rcube_plugin_api->exec_hook($hook = 'user_create', $args = ['host' => 'imap.rhscz.eu', 'user' => 'rhs@rhscz.eu', 'user_name' => '', 'user_email' => '', 'email_list' => NULL, 'language' => 'cs_CZ', 'preferences' => []]) /var/webmail/program/lib/Roundcube/rcube_user.php:637
+[27-Feb-2024 19:47:39 Europe/Berlin] PHP   5. postfixadmin_user_identities->fetch_identities($args = ['host' => 'imap.rhscz.eu', 'user' => 'rhs@rhscz.eu', 'user_name' => '', 'user_email' => '', 'email_list' => NULL, 'language' => 'cs_CZ', 'preferences' => [], 'abort' => FALSE]) /var/webmail/program/lib/Roundcube/rcube_plugin_api.php:520
+[27-Feb-2024 19:47:39 Europe/Berlin] PHP   6. rcube_plugin->load_config($fname = 'config.inc.php.dist') /var/webmail/plugins/postfixadmin_user_identities/postfixadmin_user_identities.php:28
+[27-Feb-2024 19:47:39 Europe/Berlin] PHP   7. rcube_config->load_from_file($file = '/var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist') /var/webmail/program/lib/Roundcube/rcube_plugin.php:164
+[27-Feb-2024 19:47:39 Europe/Berlin] PHP   8. include() /var/webmail/program/lib/Roundcube/rcube_config.php:313
+[27-Feb-2024 19:47:39 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[27-Feb-2024 19:47:39 Europe/Berlin] PHP Stack trace:
+[27-Feb-2024 19:47:39 Europe/Berlin] PHP   1. {main}() /var/webmail/index.php:0
+[27-Feb-2024 19:47:39 Europe/Berlin] PHP   2. rcmail->login($username = 'rhs@rhscz.eu', $password = 'C0wler$k3wfr34k7289', $host = 'ssl://imap.rhscz.eu:993', $cookiecheck = TRUE) /var/webmail/index.php:119
+[27-Feb-2024 19:47:39 Europe/Berlin] PHP   3. rcube_user::create($user = 'rhs@rhscz.eu', $host = 'imap.rhscz.eu') /var/webmail/program/include/rcmail.php:804
+[27-Feb-2024 19:47:39 Europe/Berlin] PHP   4. rcube_plugin_api->exec_hook($hook = 'user_create', $args = ['host' => 'imap.rhscz.eu', 'user' => 'rhs@rhscz.eu', 'user_name' => '', 'user_email' => '', 'email_list' => NULL, 'language' => 'cs_CZ', 'preferences' => []]) /var/webmail/program/lib/Roundcube/rcube_user.php:637
+[27-Feb-2024 19:47:39 Europe/Berlin] PHP   5. postfixadmin_user_identities->fetch_identities($args = ['host' => 'imap.rhscz.eu', 'user' => 'rhs@rhscz.eu', 'user_name' => '', 'user_email' => '', 'email_list' => NULL, 'language' => 'cs_CZ', 'preferences' => [], 'abort' => FALSE]) /var/webmail/program/lib/Roundcube/rcube_plugin_api.php:520
+[27-Feb-2024 19:47:39 Europe/Berlin] PHP   6. rcube_plugin->load_config($fname = 'config.inc.php.dist') /var/webmail/plugins/postfixadmin_user_identities/postfixadmin_user_identities.php:28
+[27-Feb-2024 19:47:39 Europe/Berlin] PHP   7. rcube_config->load_from_file($file = '/var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist') /var/webmail/program/lib/Roundcube/rcube_plugin.php:164
+[27-Feb-2024 19:47:39 Europe/Berlin] PHP   8. include() /var/webmail/program/lib/Roundcube/rcube_config.php:313
+[27-Feb-2024 19:48:31 +0100]: <hui77em0> PHP Error: Request security check failed (GET /?_task=logout)
+[27-Feb-2024 19:48:54 +0100]: <hui77em0> PHP Error: Request security check failed (GET /?_task=logout)
+[27-Feb-2024 19:55:16 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[27-Feb-2024 19:55:16 Europe/Berlin] PHP Stack trace:
+[27-Feb-2024 19:55:16 Europe/Berlin] PHP   1. {main}() /var/webmail/index.php:0
+[27-Feb-2024 19:55:16 Europe/Berlin] PHP   2. rcube_plugin_api->exec_hook($hook = 'login_after', $args = ['_task' => 'mail']) /var/webmail/index.php:149
+[27-Feb-2024 19:55:16 Europe/Berlin] PHP   3. postfixadmin_user_identities->recheck_identities($args = ['_task' => 'mail', 'abort' => FALSE]) /var/webmail/program/lib/Roundcube/rcube_plugin_api.php:520
+[27-Feb-2024 19:55:16 Europe/Berlin] PHP   4. rcube_plugin->load_config($fname = 'config.inc.php.dist') /var/webmail/plugins/postfixadmin_user_identities/postfixadmin_user_identities.php:230
+[27-Feb-2024 19:55:16 Europe/Berlin] PHP   5. rcube_config->load_from_file($file = '/var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist') /var/webmail/program/lib/Roundcube/rcube_plugin.php:164
+[27-Feb-2024 19:55:16 Europe/Berlin] PHP   6. include() /var/webmail/program/lib/Roundcube/rcube_config.php:313
+[27-Feb-2024 19:55:16 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[27-Feb-2024 19:55:16 Europe/Berlin] PHP Stack trace:
+[27-Feb-2024 19:55:16 Europe/Berlin] PHP   1. {main}() /var/webmail/index.php:0
+[27-Feb-2024 19:55:16 Europe/Berlin] PHP   2. rcube_plugin_api->exec_hook($hook = 'login_after', $args = ['_task' => 'mail']) /var/webmail/index.php:149
+[27-Feb-2024 19:55:16 Europe/Berlin] PHP   3. postfixadmin_user_identities->recheck_identities($args = ['_task' => 'mail', 'abort' => FALSE]) /var/webmail/program/lib/Roundcube/rcube_plugin_api.php:520
+[27-Feb-2024 19:55:16 Europe/Berlin] PHP   4. rcube_plugin->load_config($fname = 'config.inc.php.dist') /var/webmail/plugins/postfixadmin_user_identities/postfixadmin_user_identities.php:230
+[27-Feb-2024 19:55:16 Europe/Berlin] PHP   5. rcube_config->load_from_file($file = '/var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist') /var/webmail/program/lib/Roundcube/rcube_plugin.php:164
+[27-Feb-2024 19:55:16 Europe/Berlin] PHP   6. include() /var/webmail/program/lib/Roundcube/rcube_config.php:313
+[01-Mar-2024 16:15:34 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[01-Mar-2024 16:15:34 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[10-Mar-2024 15:14:47 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[10-Mar-2024 15:14:47 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[14-Mar-2024 22:38:24 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[14-Mar-2024 22:38:24 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[30-Mar-2024 15:46:19 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[30-Mar-2024 15:46:19 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[31-Mar-2024 00:14:18 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[31-Mar-2024 00:14:18 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[31-Mar-2024 10:55:51 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[31-Mar-2024 10:55:51 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[07-Apr-2024 00:24:25 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[07-Apr-2024 00:24:25 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[07-Apr-2024 09:58:44 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[07-Apr-2024 09:58:44 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[08-Apr-2024 21:24:58 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[08-Apr-2024 21:24:58 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[08-Apr-2024 21:46:47 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[08-Apr-2024 21:46:47 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[10-Apr-2024 16:38:05 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[10-Apr-2024 16:38:05 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[10-Apr-2024 21:16:18 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[10-Apr-2024 21:16:18 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[14-Apr-2024 20:38:12 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[14-Apr-2024 20:38:12 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[15-Apr-2024 07:15:11 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[15-Apr-2024 07:15:11 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[19-Apr-2024 17:57:50 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[19-Apr-2024 17:57:50 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[04-May-2024 08:34:55 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[04-May-2024 08:34:55 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[08-May-2024 00:33:47 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[08-May-2024 00:33:47 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[08-May-2024 00:34:00 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[08-May-2024 00:34:00 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[21-Jun-2024 16:13:56 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[21-Jun-2024 16:13:56 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[25-Jun-2024 14:21:42 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[25-Jun-2024 14:21:42 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[26-Jun-2024 10:21:05 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[26-Jun-2024 10:21:05 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[23-Aug-2024 17:16:48 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[23-Aug-2024 17:16:48 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[02-Sep-2024 21:34:15 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[02-Sep-2024 21:34:15 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[05-Sep-2024 18:39:52 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[05-Sep-2024 18:39:52 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[24-Sep-2024 19:22:21 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[24-Sep-2024 19:22:21 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[28-Oct-2024 10:15:33 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[28-Oct-2024 10:15:33 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[04-Nov-2024 21:34:23 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[04-Nov-2024 21:34:23 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[15-Nov-2024 17:21:55 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[15-Nov-2024 17:21:55 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[06-Dec-2024 13:46:33 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[06-Dec-2024 13:46:33 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[06-Dec-2024 15:16:54 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[06-Dec-2024 15:16:54 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[05-Feb-2025 17:09:43 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[05-Feb-2025 17:09:43 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[13-Feb-2025 01:33:36 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[13-Feb-2025 01:33:36 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[13-Feb-2025 11:06:21 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[13-Feb-2025 11:06:21 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[16-Feb-2025 23:16:17 +0100]: <nsafo3nb> IMAP Error: Login failed for root@rhscz.eu against imap.rhscz.eu from 176.222.226.5. AUTHENTICATE PLAIN: Authentication failed. in /var/webmail/program/lib/Roundcube/rcube_imap.php on line 211 (POST /?_task=login&_action=login)
+[16-Feb-2025 23:23:50 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[16-Feb-2025 23:23:50 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[15-Mar-2025 20:54:45 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[15-Mar-2025 20:54:45 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[18-Apr-2025 22:24:33 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[18-Apr-2025 22:24:33 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[18-Apr-2025 22:24:48 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[18-Apr-2025 22:24:48 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[18-Apr-2025 22:25:01 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[18-Apr-2025 22:25:01 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[26-Apr-2025 20:58:45 +0200]: <pu70d5u7> IMAP Error: Login failed for rhsczecf against imap.rhscz.eu from 84.40.238.228. AUTHENTICATE PLAIN: Authentication failed. in /var/webmail/program/lib/Roundcube/rcube_imap.php on line 211 (POST /?_task=login&_action=login)
+[02-Jun-2025 21:13:10 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[02-Jun-2025 21:13:10 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[17-Jun-2025 23:10:18 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[17-Jun-2025 23:10:18 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[17-Jun-2025 23:15:57 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[17-Jun-2025 23:15:57 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[17-Jun-2025 23:34:22 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[17-Jun-2025 23:34:22 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[06-Jul-2025 20:28:35 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[06-Jul-2025 20:28:35 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[14-Aug-2025 15:45:31 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[14-Aug-2025 15:45:31 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9

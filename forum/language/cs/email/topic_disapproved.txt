@@ -1,0 +1,11 @@
+Subject: Neschválení tématu - {TOPIC_TITLE}
+
+Dobrý den {USERNAME},
+
+vše téma „{TOPIC_TITLE}“ na webu {SITENAME} bylo zamítnuto moderátorem nebo administrátorem.
+
+Zde je důvod zamítnutí:
+
+{REASON}
+
+{EMAIL_SIG}

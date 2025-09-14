@@ -1,0 +1,7 @@
+Subject: Hlášení příspěvku smazáno – {POST_SUBJECT}
+
+Dobrý den {USERNAME},
+
+Vaše hlášení příspěvku „{POST_SUBJECT}“ v tématu „{TOPIC_TITLE}“ na webu {SITENAME} bylo smazáno moderátorem nebo administrátorem.
+
+{EMAIL_SIG}
