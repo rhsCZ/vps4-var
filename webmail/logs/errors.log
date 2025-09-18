@@ -649,3 +649,4 @@ Stack trace:
 [06-Jul-2025 20:28:35 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
 [14-Aug-2025 15:45:31 Europe/Berlin] PHP Warning:  Undefined variable $config in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
 [14-Aug-2025 15:45:31 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in /var/webmail/plugins/postfixadmin_user_identities/config.inc.php.dist on line 9
+[17-Sep-2025 20:26:38 +0200]: <gfd3nvr6> IMAP Error: Login failed for user@ex.com against imap.rhscz.eu from 154.203.228.65. AUTHENTICATE PLAIN: Authentication failed. in /var/webmail/program/lib/Roundcube/rcube_imap.php on line 211 (POST /?_task=login&_action=login)
