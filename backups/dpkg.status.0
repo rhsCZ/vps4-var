@@ -7624,7 +7624,7 @@ Original-Maintainer: Debian GCC Maintainers <debian-gcc@lists.debian.org>
 
 Package: gcc-12-base
 Status: install ok installed
-Priority: optional
+Priority: required
 Section: libs
 Installed-Size: 108
 Maintainer: Ubuntu Core developers <ubuntu-devel-discuss@lists.ubuntu.com>
@@ -8947,10 +8947,10 @@ Package: google-chrome-stable
 Status: install ok installed
 Priority: optional
 Section: web
-Installed-Size: 386762
+Installed-Size: 386779
 Maintainer: Chrome Linux Team <chromium-dev@chromium.org>
 Architecture: amd64
-Version: 140.0.7339.127-1
+Version: 140.0.7339.185-1
 Provides: www-browser
 Depends: ca-certificates, fonts-liberation, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.11.90), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.25), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.35), libpango-1.0-0 (>= 1.14.0), libudev1 (>= 183), libvulkan1, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, wget, xdg-utils (>= 1.0.2)
 Pre-Depends: dpkg (>= 1.14.0)
@@ -10318,7 +10318,7 @@ Installed-Size: 74
 Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
 Architecture: amd64
 Multi-Arch: foreign
-Version: 8:6.9.12.98+dfsg1-5.2ubuntu0.1~esm1
+Version: 8:6.9.12.98+dfsg1-5.2ubuntu0.1~esm2
 Depends: imagemagick-6.q16 (>= 8:6.9.2.10+dfsg-2~)
 Description: image manipulation programs -- binaries
  ImageMagick is a software suite to create, edit, and compose bitmap images.
@@ -10346,9 +10346,9 @@ Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
 Architecture: all
 Multi-Arch: foreign
 Source: imagemagick
-Version: 8:6.9.12.98+dfsg1-5.2ubuntu0.1~esm1
+Version: 8:6.9.12.98+dfsg1-5.2ubuntu0.1~esm2
 Replaces: imagemagick-common (<< 8:6.9.12.98+dfsg1-1~)
-Provides: imagemagick-common (= 8:6.9.12.98+dfsg1-5.2ubuntu0.1~esm1)
+Provides: imagemagick-common (= 8:6.9.12.98+dfsg1-5.2ubuntu0.1~esm2)
 Breaks: imagemagick-common (<< 8:6.9.12.98+dfsg1-1~), libmagickcore-6.q16-2 (<< 8:6.9.6.2+dfsg-3~), libmagickcore-6.q16-3 (<< 8:6.9.6.8+dfsg-1~), libmagickcore-6.q16-4 (<< 8:6.9.8.9+dfsg-1~), libmagickcore-6.q16hdri-4 (<< 8:6.9.8.9+dfsg-1~)
 Conffiles:
  /etc/ImageMagick-6/coder.xml 2cd28d60bb45db29bba17f35dc58ccb9
@@ -10390,10 +10390,10 @@ Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
 Architecture: amd64
 Multi-Arch: foreign
 Source: imagemagick
-Version: 8:6.9.12.98+dfsg1-5.2ubuntu0.1~esm1
+Version: 8:6.9.12.98+dfsg1-5.2ubuntu0.1~esm2
 Replaces: imagemagick (<< 8:6.9.2.10+dfsg-2~)
-Provides: imagemagick, imagemagick-6.defaultquantum (= 8:6.9.12.98+dfsg1-5.2ubuntu0.1~esm1)
-Depends: libc6 (>= 2.34), libmagickcore-6.q16-7t64 (>= 8:6.9.10.2), libmagickwand-6.q16-7t64 (>= 8:6.9.12.98+dfsg1-5.2ubuntu0.1~esm1), hicolor-icon-theme
+Provides: imagemagick, imagemagick-6.defaultquantum (= 8:6.9.12.98+dfsg1-5.2ubuntu0.1~esm2)
+Depends: libc6 (>= 2.34), libmagickcore-6.q16-7t64 (>= 8:6.9.10.2), libmagickwand-6.q16-7t64 (>= 8:6.9.12.98+dfsg1-5.2ubuntu0.1~esm2), hicolor-icon-theme
 Recommends: libmagickcore-6.q16-7-extra, ghostscript, netpbm
 Suggests: imagemagick-6-doc, autotrace, cups-bsd | lpr | lprng, curl, enscript, ffmpeg, gimp, gnuplot, grads, graphviz, groff-base, hp2xx, html2ps, libwmf-bin, mplayer, povray, radiance, sane-utils, texlive-base-bin, transfig, libraw-bin, xdg-utils
 Breaks: libmagickcore-dev (<< 8:6.9.2.10+dfsg-2~)
@@ -12495,7 +12495,7 @@ Installed-Size: 406
 Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
 Architecture: amd64
 Source: landscape-client
-Version: 24.02-0ubuntu5.3
+Version: 24.02-0ubuntu5.6
 Depends: python3:any, debconf (>= 0.5) | debconf-2.0, python3-twisted, python3-configobj, python3-apt, ca-certificates, python3-gdbm, python3-netifaces, lsb-release, adduser, bc, lshw, libpam-modules, python3-setuptools
 Description: Landscape administration system client - Common files
  Landscape is a web-based tool for managing Ubuntu systems. This
@@ -30355,9 +30355,9 @@ Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
 Architecture: amd64
 Multi-Arch: same
 Source: imagemagick
-Version: 8:6.9.12.98+dfsg1-5.2ubuntu0.1~esm1
+Version: 8:6.9.12.98+dfsg1-5.2ubuntu0.1~esm2
 Provides: libmagickcore-6.q16-1-extra, libmagickcore-6.q16-2-extra, libmagickcore-6.q16-3-extra, libmagickcore-6.q16-4-extra, libmagickcore-6.q16-5-extra, libmagickcore-6.q16-6-extra, libmagickcore-extra
-Depends: libc6 (>= 2.38), libcairo2 (>= 1.6.0), libdjvulibre21 (>= 3.5.28), libglib2.0-0t64 (>= 2.12.0), libmagickcore-6.q16-7t64 (>= 8:6.9.11.24), libmagickwand-6.q16-7t64 (>= 8:6.9.12.98+dfsg1-5.2ubuntu0.1~esm1), libopenexr-3-1-30 (>= 3.1.5), libpango-1.0-0 (>= 1.22.0), libpangocairo-1.0-0 (>= 1.14.0), libwmflite-0.2-7 (>= 0.2.12), libxml2 (>= 2.7.4)
+Depends: libc6 (>= 2.38), libcairo2 (>= 1.6.0), libdjvulibre21 (>= 3.5.28), libglib2.0-0t64 (>= 2.12.0), libmagickcore-6.q16-7t64 (>= 8:6.9.11.24), libmagickwand-6.q16-7t64 (>= 8:6.9.12.98+dfsg1-5.2ubuntu0.1~esm2), libopenexr-3-1-30 (>= 3.1.5), libpango-1.0-0 (>= 1.22.0), libpangocairo-1.0-0 (>= 1.14.0), libwmflite-0.2-7 (>= 0.2.12), libxml2 (>= 2.7.4)
 Recommends: libjxr-tools
 Suggests: inkscape
 Enhances: libmagickcore-6.q16-7t64
@@ -30379,14 +30379,14 @@ Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
 Architecture: amd64
 Multi-Arch: same
 Source: imagemagick
-Version: 8:6.9.12.98+dfsg1-5.2ubuntu0.1~esm1
+Version: 8:6.9.12.98+dfsg1-5.2ubuntu0.1~esm2
 Replaces: libmagickcore-6.q16-7
-Provides: libmagickcore-6.q16-7 (= 8:6.9.12.98+dfsg1-5.2ubuntu0.1~esm1)
+Provides: libmagickcore-6.q16-7 (= 8:6.9.12.98+dfsg1-5.2ubuntu0.1~esm2)
 Depends: libbz2-1.0, libc6 (>= 2.38), libfftw3-double3 (>= 3.3.10), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3.1), libgomp1 (>= 6), libheif1 (>= 1.13.0), libjbig0 (>= 2.0), libjpeg8 (>= 8c), liblcms2-2 (>= 2.6), liblqr-1-0 (>= 0.4.0), libltdl7 (>= 2.4.7), liblzma5 (>= 5.1.1alpha+20120614), libopenjp2-7 (>= 2.0.0), libpng16-16t64 (>= 1.6.2), libraw23t64 (>= 0.16.0), libtiff6 (>= 4.5.0~rc1), libwebp7 (>= 1.3.2), libwebpdemux2 (>= 1.3.2), libwebpmux3 (>= 1.3.2), libx11-6, libxext6, libxml2 (>= 2.7.4), zlib1g (>= 1:1.1.4), imagemagick-6-common (>= 8:6.9.6.2+dfsg-3)
 Pre-Depends: dpkg (>= 1.17.6)
 Recommends: ghostscript, fonts-urw-base35
 Suggests: libmagickcore-6.q16-7-extra
-Breaks: libmagickcore-6.q16-7 (<< 8:6.9.12.98+dfsg1-5.2ubuntu0.1~esm1)
+Breaks: libmagickcore-6.q16-7 (<< 8:6.9.12.98+dfsg1-5.2ubuntu0.1~esm2)
 Description: low-level image manipulation library -- quantum depth Q16
  The MagickCore API is a low-level interface between the C programming language
  and the ImageMagick image processing libraries and is recommended for
@@ -30437,12 +30437,12 @@ Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
 Architecture: amd64
 Multi-Arch: same
 Source: imagemagick
-Version: 8:6.9.12.98+dfsg1-5.2ubuntu0.1~esm1
+Version: 8:6.9.12.98+dfsg1-5.2ubuntu0.1~esm2
 Replaces: libmagickwand-6.q16-7
-Provides: libmagickwand-6.q16-7 (= 8:6.9.12.98+dfsg1-5.2ubuntu0.1~esm1)
+Provides: libmagickwand-6.q16-7 (= 8:6.9.12.98+dfsg1-5.2ubuntu0.1~esm2)
 Depends: libc6 (>= 2.38), libgcc-s1 (>= 3.3.1), libgomp1 (>= 4.9), libmagickcore-6.q16-7t64 (>= 8:6.9.12.89), libx11-6, imagemagick-6-common (>= 8:6.9.6.2+dfsg-3)
 Pre-Depends: dpkg (>= 1.17.6)
-Breaks: libmagickwand-6.q16-7 (<< 8:6.9.12.98+dfsg1-5.2ubuntu0.1~esm1)
+Breaks: libmagickwand-6.q16-7 (<< 8:6.9.12.98+dfsg1-5.2ubuntu0.1~esm2)
 Description: image manipulation library -- quantum depth Q16
  The MagickWand API is the recommended interface between the C programming
  language and the ImageMagick image processing libraries. Unlike the
@@ -46395,40 +46395,6 @@ Description: Complete Generic Linux kernel and headers
  This package will always depend on the latest complete generic Linux kernel
  and headers.
 
-Package: linux-headers-6.8.0-78
-Status: install ok installed
-Priority: optional
-Section: devel
-Installed-Size: 83959
-Maintainer: Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>
-Architecture: all
-Multi-Arch: foreign
-Source: linux
-Version: 6.8.0-78.78
-Depends: coreutils
-Description: Header files related to Linux kernel version 6.8.0
- This package provides kernel header files for version 6.8.0, for sites
- that want the latest kernel headers. Please read
- /usr/share/doc/linux-headers-6.8.0-78/debian.README.gz for details
-
-Package: linux-headers-6.8.0-78-generic
-Status: install ok installed
-Priority: optional
-Section: devel
-Installed-Size: 28612
-Maintainer: Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>
-Architecture: amd64
-Source: linux
-Version: 6.8.0-78.78
-Provides: linux-headers, linux-headers-3.0
-Depends: linux-headers-6.8.0-78, libc6 (>= 2.38), libelf1t64 (>= 0.144), libgcc-s1 (>= 4.2), libssl3t64 (>= 3.0.0), zlib1g (>= 1:1.2.3.3)
-Description: Linux kernel headers for version 6.8.0 on 64 bit x86 SMP
- This package provides kernel header files for version 6.8.0 on
- 64 bit x86 SMP.
- .
- This is for sites that want the latest kernel headers.  Please read
- /usr/share/doc/linux-headers-6.8.0-78/debian.README.gz for details.
-
 Package: linux-headers-6.8.0-79
 Status: install ok installed
 Priority: optional
@@ -47070,7 +47036,7 @@ Description: Signed kernel image generic
 Built-Using: linux (= 6.8.0-71.71)
 
 Package: linux-image-6.8.0-78-generic
-Status: install ok installed
+Status: deinstall ok config-files
 Priority: optional
 Section: kernel
 Installed-Size: 14693
@@ -47078,6 +47044,7 @@ Maintainer: Canonical Kernel Team <kernel-team@lists.ubuntu.com>
 Architecture: amd64
 Source: linux-signed
 Version: 6.8.0-78.78
+Config-Version: 6.8.0-78.78
 Provides: fuse-module, ivtv-modules, kvm-api-4, linux-image, redhat-cluster-modules, spl-dkms, spl-modules, v4l2loopback-dkms, v4l2loopback-modules, virtualbox-guest-modules, zfs-dkms, zfs-modules
 Depends: kmod, linux-base (>= 4.5ubuntu1~16.04.1), linux-modules-6.8.0-78-generic
 Recommends: grub-pc | grub-efi-amd64 | grub-efi-ia32 | grub | lilo, initramfs-tools | linux-initramfs-tool
@@ -48122,7 +48089,7 @@ Description: Linux kernel extra modules for version 6.8.0 on 64 bit x86 SMP
  correctly, and that supporting packages are also installed.
 
 Package: linux-modules-6.8.0-78-generic
-Status: install ok installed
+Status: deinstall ok config-files
 Priority: optional
 Section: kernel
 Installed-Size: 38253
@@ -48130,6 +48097,7 @@ Maintainer: Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>
 Architecture: amd64
 Source: linux
 Version: 6.8.0-78.78
+Config-Version: 6.8.0-78.78
 Description: Linux kernel extra modules for version 6.8.0 on 64 bit x86 SMP
  Contains the corresponding System.map file, the modules built by the
  packager, and scripts that try to ensure that the system is not left in an
@@ -49213,7 +49181,7 @@ Description: Linux kernel extra modules for version 6.8.0 on 64 bit x86 SMP
  correctly, and that supporting packages are also installed.
 
 Package: linux-modules-extra-6.8.0-78-generic
-Status: install ok installed
+Status: deinstall ok config-files
 Priority: optional
 Section: kernel
 Installed-Size: 109709
@@ -49221,6 +49189,7 @@ Maintainer: Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>
 Architecture: amd64
 Source: linux
 Version: 6.8.0-78.78
+Config-Version: 6.8.0-78.78
 Depends: linux-modules-6.8.0-78-generic, wireless-regdb
 Description: Linux kernel extra modules for version 6.8.0 on 64 bit x86 SMP
  This package contains the Linux kernel extra modules for version 6.8.0 on
@@ -49289,39 +49258,6 @@ Description: Linux kernel extra modules for version 6.8.0 on 64 bit x86 SMP
  You likely do not want to install this package directly. Instead, install
  the linux-generic meta-package, which will ensure that upgrades work
  correctly, and that supporting packages are also installed.
-
-Package: linux-tools-6.8.0-78
-Status: install ok installed
-Priority: optional
-Section: devel
-Installed-Size: 18655
-Maintainer: Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>
-Architecture: amd64
-Source: linux
-Version: 6.8.0-78.78
-Depends: libc6 (>= 2.38), libcap2 (>= 1:2.10), libdw1t64 (>= 0.161), libelf1t64 (>= 0.144), liblzma5 (>= 5.1.1alpha+20120614), libnuma1 (>= 2.0.11), libpci3 (>= 1:3.8.0), libpython3.12t64 (>= 3.12.1), libslang2 (>= 2.2.4), libssl3t64 (>= 3.0.0), libstdc++6 (>= 4.1.1), libtraceevent1 (>= 1:1.3.0), libudev1 (>= 183), libunwind8, libzstd1 (>= 1.5.5), zlib1g (>= 1:1.2.3.3), linux-tools-common
-Description: Linux kernel version specific tools for version 6.8.0-78
- This package provides the architecture dependant parts for kernel
- version locked tools (such as perf and x86_energy_perf_policy) for
- version 6.8.0-78 on
- 64 bit x86.
- You probably want to install linux-tools-6.8.0-78-<flavour>.
-
-Package: linux-tools-6.8.0-78-generic
-Status: install ok installed
-Priority: optional
-Section: devel
-Installed-Size: 516
-Maintainer: Ubuntu Kernel Team <kernel-team@lists.ubuntu.com>
-Architecture: amd64
-Source: linux
-Version: 6.8.0-78.78
-Depends: linux-tools-6.8.0-78
-Description: Linux kernel version specific tools for version 6.8.0-78
- This package provides the architecture dependant parts for kernel
- version locked tools (such as perf and x86_energy_perf_policy) for
- version 6.8.0-78 on
- 64 bit x86.
 
 Package: linux-tools-6.8.0-79
 Status: install ok installed
