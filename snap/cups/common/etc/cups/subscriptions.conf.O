@@ -7,6 +7,6 @@ Owner anonymous
 Recipient dbus://
 LeaseDuration 86400
 Interval 0
-ExpirationTime 1758348931
+ExpirationTime 1758392130
 NextEventId 1
 </Subscription>
